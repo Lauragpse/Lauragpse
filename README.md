@@ -1,32 +1,26 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F73BE0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Laura...;Seja+bem+vindo!;+:%29)](https://git.io/typing-svg)
 
+<p align="center">
+  Sou estudante de Ciência da Computação no 3º período da faculdade. Atualmente, para ser desenvolvedora.
+</p>
 
-Sou estudante de Ciência da Computação no 3º período da faculdade. Atualmente, estou estudando HTML, CSS, JavaScript e Python.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauragpse&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
-###
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lauragpse&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">Main skills:</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117" /> 
+  <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117" /> 
+  <img src="https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=0D1117" /> 
+  <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117" /> 
+</p>
 
-### Main skills:
+<h3 align="center">Contato:</h3>
 
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JAVASCRIPT](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+<p align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/lauracamilaleite/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+</p>
 
-### Contato:
-[![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/https://www.linkedin.com/in/lauracamilaleite/) 
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-[![](https://visitcount.itsvg.in/api?id=Lauragpse&icon=7&color=11)](https://visitcount.itsvg.in)
-
-
-<!---
-Lauragpse/Lauragpse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
