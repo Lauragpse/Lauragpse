@@ -26,3 +26,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/lauracamilaleite/"><img src="https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117" /></a>
 </p>
+<p align="center">
+<iframe src="https://gifer.com/embed/WMzG" width=480 height=639.600 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">através de GIFER</a></p>
+</p>
