@@ -12,7 +12,7 @@ Sou estudante de Ciência da Computação no 3º período da faculdade. Atualmen
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lauracamilaleite/) 
 
 # 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lauragpse&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lauragpse&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact_)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
