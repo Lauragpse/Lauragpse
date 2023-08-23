@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=F754C7&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1%2C+me+chamo+Laura+%3A)" alt="Typing SVG" /></a>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=F754C7&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1%2C+me+chamo+Laura+%3A))](https://git.io/typing-svg)
+
 
 Meu nome é Laura e sou estudante de Ciência da Computação no 3º período da faculdade. Atualmente, estou estudando HTML, CSS, JavaScript e Python.
 ## Socials:
