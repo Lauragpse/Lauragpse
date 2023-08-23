@@ -7,7 +7,7 @@ Meu nome é Laura e sou estudante de Ciência da Computação no 3º período da
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lauracamilaleite/) 
 
-
+	https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
 
 
 
