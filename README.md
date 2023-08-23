@@ -11,7 +11,7 @@ Sou estudante de Ciência da Computação no 3º período da faculdade. Atualmen
 ![JAVASCRIPT](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-## Contato:
+### Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lauracamilaleite/) 
 
 # 
