@@ -5,9 +5,11 @@
   Sou estudante de Ciência da Computação no 3º período da faculdade. Atualmente, estou estudando para ser desenvolvedora.
 </p>
 
+###
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauragpse&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauragpse&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </p>
+
 
 <h3 align="center">Main skills:</h3>
 
