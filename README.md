@@ -4,6 +4,10 @@
 
 Sou estudante de Ciência da Computação no 3º período da faculdade. Atualmente, estou estudando HTML, CSS, JavaScript e Python.
 
+###
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lauragpse&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 ### Main skills:
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
@@ -14,8 +18,6 @@ Sou estudante de Ciência da Computação no 3º período da faculdade. Atualmen
 ### Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lauracamilaleite/) 
 
-# 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lauragpse&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
