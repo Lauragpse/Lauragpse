@@ -23,5 +23,5 @@
 <h3 align="center">Contato:</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/lauracamilaleite/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/lauracamilaleite/"><img src="https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117" /></a>
 </p>
