@@ -1,5 +1,16 @@
-# 💫 About Me:
-👩🏻‍💻 Olá, me chamo LAURA<br>🌐 Sou graduanda de Ciência da Computação<br>🌱 Atualmente estou aprendendo HTML, CSS, JS & PYTHON<br>📫 Meu LinkedIn: Laura Leite -> https://www.linkedin.com/in/lauracamilaleite/<br>👀 Estou interessada em vagas de estagio para um melhor aprendizado e experiencia para evoluir cada vez mais.
+# Olá! 👋
+
+Meu nome é Laura e sou estudante de Ciência da Computação no 3º período da faculdade. Atualmente, estou estudando HTML, CSS, JavaScript e Python.
+
+## Minhas habilidades
+- HTML
+- CSS
+- JavaScript
+- Python
+
+## Me encontre
+- LinkedIn
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lauracamilaleite/) 
 
 
 ## 🌐 Socials:
