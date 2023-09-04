@@ -24,7 +24,7 @@
 <h3 align="center">Contato:</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/lauracamilaleite/"><img src="https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117" /></a>
+  <a href="https://www.linkedin.com/in/lauracamilaleite/"><img src="https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117" /></a>
 </p>
 <p align="center">
 <img src="https://i.pinimg.com/originals/a7/f1/a7/a7f1a7457882688e2784ad46e82ab9ad.gif">
