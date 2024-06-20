@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F73BE0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Laura...;Seja+bem+vindo!;+:%29)](https://git.io/typing-svg)
 
 <p align="center">
-  Sou estudante de Ciências da Computação no 3º período da faculdade. Atualmente, estou estudando para me tornar desenvolvedora.
+  Sou estudante de Ciências da Computação no 5º período da faculdade. Atualmente, estou estudando para me tornar desenvolvedora.
 </p>
 
 ###
